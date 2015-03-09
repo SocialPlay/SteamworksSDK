@@ -1,0 +1,50 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 Ti  (ID=0x11c6)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\JsonFx.Json.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\JsonFx.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\protobuf-net.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\SocialPlay.Data.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\SocialPlay.Data.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\SocialPlay.Generic.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\SocialPlay.Generic.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\SocialPlay.Service.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\SocialPlay.Service.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\SteamworksManaged.dll (this message is harmless)
+Loading C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\SteamworksManaged.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\SteamWorksSDK\SteamLogin_Data\Managed\System.dll (this message is harmless)
+Could not initialize the native Steamworks API. This is usually caused by a missing steam_appid.txt file or if the Steam client is not running.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+SteamInitializeFailed
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+SteamInterface startup failed!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
